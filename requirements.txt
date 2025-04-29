@@ -1,0 +1,7 @@
+pandas
+numpy
+click
+pydantic
+openai
+tabulate
+magic-wormhole
